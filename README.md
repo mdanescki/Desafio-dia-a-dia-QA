@@ -38,7 +38,7 @@ Projeto fictício de e-commerce utilizado como base para praticar todo o ciclo d
 
 ## 👩‍💻 Autora
 
-**Monize Danescki**
+**Monize Martins Danescki**
 Em transição de carreira para Tecnologia, com foco em QA e Análise de Suporte/Atendimento.
 
 - GitHub: [@mdanescki](https://github.com/mdanescki)
